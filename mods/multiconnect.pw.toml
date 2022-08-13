@@ -1,0 +1,13 @@
+name = "multiconnect"
+filename = "multiconnect-1.6-beta.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.6-beta.22/multiconnect-1.6-beta.22.jar"
+hash-format = "sha1"
+hash = "b33f0a69573a7ca55ab4bf60a2e018255eb20b56"
+
+[update]
+[update.modrinth]
+mod-id = "sfEDKnlo"
+version = "Gow50tG2"
