@@ -35,10 +35,6 @@ hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
 metafile = true
 
 [[files]]
-file = "mods/cloth.toml"
-hash = "cccc78861f79cfcdd78d7bf5ee288a8b8184dfcf4ead07051c1b1eb6d3e8a979"
-
-[[files]]
 file = "mods/clothconfig.pw.toml"
 hash = "cccc78861f79cfcdd78d7bf5ee288a8b8184dfcf4ead07051c1b1eb6d3e8a979"
 metafile = true
