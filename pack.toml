@@ -1,16 +1,13 @@
-name = "Clarity (Main Edition)"
+name = "Clarity"
 author = "Darkblade360350"
-version = "0.1"
+version = "0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "659d015bd2c68ca078e46820ae0c121f7264eeb60670dc15334836f01a91d766"
+hash = "e706050691a69e2724a794d51db66e84e36a72b1fa9bf117c72e09a95d406919"
 
 [versions]
+fabric = "0.14.9"
 minecraft = "1.19.2"
-quilt = "0.17.2-beta.2"
-
-[options]
-acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

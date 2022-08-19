@@ -11,3 +11,7 @@ hash = "031f924a9452e9e77b29e5d8d2283df07823757b"
 [update.modrinth]
 mod-id = "Nv2fQJo5"
 version = "1IAzC6AX"
+
+[option]
+optional = true
+description = "If you don't know what ReplayMod is, then why are you here? To export with ReplayMod you will need to get the custom Sodium Build from their website, and rename it to be the same as regular Sodium. NOTE: If you don't know that you will use it, don't get it. It can be very annoying."

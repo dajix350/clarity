@@ -85,6 +85,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
+hash = "8edb5b12ecb0ad1a095de0421fea4601859fa684442b5a7754dbfdff4a034b34"
 metafile = true
 
 [[files]]
@@ -207,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/orientation.pw.toml"
 hash = "d0e21c645fe184a6463844be85833c79dab1b396b033e4e770f1efa4c1acce37"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
 metafile = true
 
 [[files]]

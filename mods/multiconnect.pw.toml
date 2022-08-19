@@ -11,3 +11,7 @@ hash = "b33f0a69573a7ca55ab4bf60a2e018255eb20b56"
 [update.modrinth]
 mod-id = "sfEDKnlo"
 version = "Gow50tG2"
+
+[option]
+optional = true
+description = "Multiconnect allows you to join servers running older minecraft versions. WARNING: Can have some issues with anti-cheats."
