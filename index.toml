@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "2a8feb916b34586237d9fad98645c5fd61b12734c6c2adb03d8316bcd0a6c5aa"
+hash = "7f616684b43e27ebd4268777bd7e80bec5629645a658bb4b3abdb8ccbe81a381"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+hash = "1ecb7e99a65240557294eb0af8657173e5592c6ff0fc6b99fd2f61ca4a7a5518"
 metafile = true
 
 [[files]]
