@@ -11,3 +11,7 @@ hash = "8d264374dc08df87777fb51b94c781476c315bb5"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "g9FOSLTq"
+
+[option]
+optional = true
+description = "DynamicFPS automatically reduces FPS when your window isn't focused to help your computers performance. This can cause issues with some autoclickers."

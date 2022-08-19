@@ -11,3 +11,7 @@ hash = "a651175294324db5cd51e58682a70ad42ead0ff2"
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "Sry7DqOE"
+
+[option]
+optional = true
+description = "Inventory Profiles adds many helpful utilitest to inventories, but it is quite complex and makes inventories look a bit weird. Only recommended for advanced users."

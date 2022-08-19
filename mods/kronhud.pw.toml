@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3906507
 project-id = 403941
+
+[option]
+optional = true
+description = "KronHUD lets you add Lunar Client-style HUD modules to your screen."

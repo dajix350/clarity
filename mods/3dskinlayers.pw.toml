@@ -11,3 +11,7 @@ hash = "90941255153e40117856208a08dacbd513e11e06"
 [update.modrinth]
 mod-id = "zV5r3pPn"
 version = "KW20Mnwk"
+
+[option]
+optional = true
+description = "3DSkinLayers does what it says on the box. Some people don't like the look, and it has a tiny performance hit so it's up to you."

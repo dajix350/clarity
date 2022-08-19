@@ -11,3 +11,7 @@ hash = "636ce91e6902c3ff80392c89f2403c0a47001dbe"
 [update.modrinth]
 mod-id = "M08ruV16"
 version = "sQQHwfZR"
+
+[option]
+optional = true
+description = "The Bobby mod lets you see chunks outside of your servers limit."

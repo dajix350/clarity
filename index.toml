@@ -6,7 +6,7 @@ hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
+hash = "e10e166ff0fe62645c0f30dd9b7051c94d97b0f8e3bbc66d85a206f7f978e1fd"
 metafile = true
 
 [[files]]
@@ -31,7 +31,12 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
+hash = "fcd1d205593e58890be1ec191f6e4ae2c7bfa9a2f6d4b584d77efb1b1b511489"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "0277b2cdbfe215343b5c266cbd3346fd89ffd8c191093ded08224ab25d89ea2d"
 metafile = true
 
 [[files]]
@@ -60,13 +65,13 @@ hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
 
 [[files]]
-file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+file = "mods/debugify.pw.toml"
+hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+hash = "e4d530691bc83cebfdf543f88d6e4dd10e48bee2370253a379cb19a791a9bafe"
 metafile = true
 
 [[files]]
@@ -121,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "34229e600fb26341545e086a524e3584df903aac2b04001930bebee25a1ae8ac"
+hash = "2934dc0ca976e291ea572faecf843e978c2e72b6829d7a863e33016b1a44d3e1"
 metafile = true
 
 [[files]]
 file = "mods/kronhud.pw.toml"
-hash = "ec042e40cad2abadaab30de9af9ec67bba88a500a9ce2851c6181a9affff647f"
+hash = "1d66b899f3e80e50e4bae9ef1610b0552a50c82b420867e3f4d74286b527417e"
 metafile = true
 
 [[files]]
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "b32363519fd8219a9b25139928ea17385c1e25b301e429488e98c8da746cfc54"
 metafile = true
 
 [[files]]
@@ -192,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
 
 [[files]]

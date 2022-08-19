@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3923056
 project-id = 242064
+
+[option]
+optional = true
+description = "ItemScroller gives some advanced inventory managmet functionality to your mouses scroll wheel. It is mostly useless if you use a trackpad or controller"
