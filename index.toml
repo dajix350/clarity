@@ -40,6 +40,11 @@ hash = "0277b2cdbfe215343b5c266cbd3346fd89ffd8c191093ded08224ab25d89ea2d"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+metafile = true
+
+[[files]]
 file = "mods/clothconfig.pw.toml"
 hash = "cccc78861f79cfcdd78d7bf5ee288a8b8184dfcf4ead07051c1b1eb6d3e8a979"
 metafile = true
