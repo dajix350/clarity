@@ -1,0 +1,13 @@
+name = "NoChatReport"
+filename = "no-chat-report-1.19.1-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HSPvvm6v/versions/1.19.1-1.0/no-chat-report-1.19.1-1.0.jar"
+hash-format = "sha1"
+hash = "53699da7e6629920d2e647ba04693c9605a7bf2d"
+
+[update]
+[update.modrinth]
+mod-id = "HSPvvm6v"
+version = "NMVfF8KY"

@@ -55,6 +55,11 @@ hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "9a5e5a2dfa1ab8a7121c1ef2c57b2de0c43956cc0e2eef166c9dc083ce822aef"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "7f02ba53477c98732edc5e59effd0a4e844b409bf37b91c3555f9fb804979f95"
 metafile = true
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/multiconnect.pw.toml"
 hash = "f4fbd793187296b2b1560e61b23bdf78f435710e65155b5cb588f1d44ea1af6b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-report.pw.toml"
+hash = "1a8471d7495b0d903455f81282c32721dc6cc6734a216ae2a8a2e06f4d078474"
 metafile = true
 
 [[files]]
