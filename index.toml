@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/clothconfig.pw.toml"
-hash = "cccc78861f79cfcdd78d7bf5ee288a8b8184dfcf4ead07051c1b1eb6d3e8a979"
+hash = "b6efb16b5e62246d56df68d87554d21eb0744430775b7724d18108e547f66e8e"
 metafile = true
 
 [[files]]
@@ -70,6 +70,11 @@ hash = "7f02ba53477c98732edc5e59effd0a4e844b409bf37b91c3555f9fb804979f95"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "f75534f0b6580fadf95bef5efd6aacd25858bc0b3c8f64b648f72292c376324d"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
@@ -241,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplefog.pw.toml"
-hash = "ab647faa8d90badfc5908db43f63bbad53dffd7c864371e1156aab50b1fedd38"
+hash = "0ea95321406c3c53fefcc28eb4a7a0beb8cd70323669d2855aaa749a85d547f7"
 metafile = true
 
 [[files]]
