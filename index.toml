@@ -61,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a5e5a2dfa1ab8a7121c1ef2c57b2de0c43956cc0e2eef166c9dc083ce822aef"
+hash = "90ada66cec5937b33875e9588024bf9faa4f7d6e045df0a2b2f04d73939936ff"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7f02ba53477c98732edc5e59effd0a4e844b409bf37b91c3555f9fb804979f95"
+hash = "632f7006867c2ae61e17512fec00ced27f7db1fcba5db8e53ac68355abf72a15"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6c5ea5ecf2b51c097b7d36db12b3deff383e382a040453576aaa2675b77d8d74"
+hash = "c23e80a345670527d9bb5be8a666978c344b6e5d0575b9169c38cfb5fe68019a"
 metafile = true
 
 [[files]]
@@ -296,5 +296,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "288bb1627625f02942bb803416080c6b876ccf9764a0691f753601d0d3db636d"
+hash = "373dc04f962571ce299f54df6d3f921b07b4bbb5bcb4194a5d2a7be743b01026"
 metafile = true
