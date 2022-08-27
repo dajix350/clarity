@@ -215,11 +215,6 @@ hash = "f4fbd793187296b2b1560e61b23bdf78f435710e65155b5cb588f1d44ea1af6b"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-report.pw.toml"
-hash = "1a8471d7495b0d903455f81282c32721dc6cc6734a216ae2a8a2e06f4d078474"
-metafile = true
-
-[[files]]
 file = "mods/no-strip.pw.toml"
 hash = "c0148caa83e281ceea5cfb25c87b98c2ebfd89bd74c842573fd257c07f174da2"
 metafile = true
