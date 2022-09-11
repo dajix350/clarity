@@ -10,6 +10,11 @@ hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
 metafile = true
@@ -45,8 +50,23 @@ hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
 file = "mods/clothconfig.pw.toml"
-hash = "b6efb16b5e62246d56df68d87554d21eb0744430775b7724d18108e547f66e8e"
+hash = "3b259ac4472d087a010ce04efec88959610381f39cfddead7da565d0aa8b0962"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
@@ -66,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "3d2e4422068e43f1e915640b33c1490c544415db2be78765466c2031c5094626"
+hash = "96a151e3429c0a525e0fdb6408a9f201ff1dcbcb7cf52e363d99205635753c72"
 metafile = true
 
 [[files]]
@@ -76,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "aec7e6789e4b9858aa538aa55eea6bc10fd2864a95edc59fff6988594c1a307f"
+hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
+hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
 metafile = true
 
 [[files]]
@@ -102,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "76a5d61442e06180aede0b5cf457f04b471b37d85a8631726d550f9309b2ddeb"
 metafile = true
 
 [[files]]
@@ -141,17 +166,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "2934dc0ca976e291ea572faecf843e978c2e72b6829d7a863e33016b1a44d3e1"
-metafile = true
-
-[[files]]
-file = "mods/kronhud.pw.toml"
-hash = "1d66b899f3e80e50e4bae9ef1610b0552a50c82b420867e3f4d74286b527417e"
 metafile = true
 
 [[files]]
@@ -221,7 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
 metafile = true
 
 [[files]]
@@ -281,15 +306,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c23e80a345670527d9bb5be8a666978c344b6e5d0575b9169c38cfb5fe68019a"
+hash = "e9c8538c8a6ab6a67808a2eece408e4da0144dd47024a00c15ea226781143d59"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b064e35edcf22a5f5b0a9a3d6e37049550fe41a43b8a22f55d796594c829ddab"
+hash = "ec050ca55bf307e10b7cbf350e5fd7cd57582cbd7a1c5ef6c364a64ee671fc8d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "373dc04f962571ce299f54df6d3f921b07b4bbb5bcb4194a5d2a7be743b01026"
+hash = "4a23fa54267b53ea8825ea12fb92fd05cdde7890eec5d05a8ef81d00be145fd6"
 metafile = true
