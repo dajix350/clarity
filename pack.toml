@@ -1,6 +1,6 @@
 name = "Clarity"
 author = "Darkblade360350"
-version = "0.2"
+version = "0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,8 +9,5 @@ hash-format = "sha256"
 hash = "741b26d673a8cc3fa177e6e2348b5a2c67fa863e91b60ed701eb49a04aedf31f"
 
 [versions]
-fabric = "0.14.9"
+fabric = "0.14.10"
 minecraft = "1.19.2"
-
-[options]
-acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
