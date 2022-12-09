@@ -1,0 +1,12 @@
+name = "cemFork"
+filename = "cem-0.7.1_S8_1.19.jar"
+side = "client"
+
+[download]
+url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_8/cem-0.7.1_S8_1.19.jar"
+hash-format = "md5"
+hash = "2736498a8d6f655659020244f753fb3f"
+
+[option]
+optional = true
+description = "cemFork is an experimental mod for Fresh Animations support."
