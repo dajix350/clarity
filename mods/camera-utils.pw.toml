@@ -1,16 +1,16 @@
 name = "Camera Utils"
-filename = "camerautils-1.19.2-1.0.2.jar"
+filename = "camerautils-1.19.2-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rrwQMaWQ/versions/fabric-1.19.2-1.0.2/camerautils-1.19.2-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/rrwQMaWQ/versions/efnXM4hB/camerautils-1.19.2-1.0.3.jar"
 hash-format = "sha1"
-hash = "04c1df4ccba4e52c09b00c060b2469d9d6c0b99a"
+hash = "097e61337c34d23aa92a77fea5fc1796a9582fe0"
 
 [update]
 [update.modrinth]
 mod-id = "rrwQMaWQ"
-version = "xYmi2nIY"
+version = "efnXM4hB"
 
 [option]
 optional = true

@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -36,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "fcd1d205593e58890be1ec191f6e4ae2c7bfa9a2f6d4b584d77efb1b1b511489"
+hash = "de7c68aa559634fca61df8284cc4e62aa96320f10b31792d0ce4e8df2b01ea32"
 metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "0277b2cdbfe215343b5c266cbd3346fd89ffd8c191093ded08224ab25d89ea2d"
+hash = "6ddc539272987cd47ae62d6c9e4ea440e4f504a12596074d70d7eba3f2412185"
 metafile = true
 
 [[files]]
@@ -52,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/cemfork.pw.toml"
+hash = "d30be280293de38de0de03e793980281bf3db9af145c9e8313eecbff57842169"
 metafile = true
 
 [[files]]
@@ -86,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "d6523958bfcd814e0c4125e533324f16f04219aa3f8fec7ca4ddc44667bacfaa"
+hash = "c17fd54866ed9aa79097cd7bf643aac0f510ac6a19966a7a202ebaf471de320b"
 metafile = true
 
 [[files]]
@@ -101,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e4d530691bc83cebfdf543f88d6e4dd10e48bee2370253a379cb19a791a9bafe"
+hash = "23982968b9d74a5266431dd42e34371e4e580cf3d931e44815656f693394077a"
 metafile = true
 
 [[files]]
@@ -126,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
+hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -141,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -156,12 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "8ad5247bc4131b04e2fe03687148178877767730c940a65afbd3fbd6f67b53e4"
+hash = "a23282610cb3d30ddbb2426870fddbd79ccaead1f9fd32bdc9bb000e0ba987df"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -186,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "9f60c18aa4b437a56bcb1712ccc4ae2caf12cae4ee516a6a9c340e1088d8e7c4"
+hash = "b3d979146ffc548ff5aa6c121f3f73e5749ca04e2e39e1597f10e76f6a5b7cff"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -240,11 +245,6 @@ hash = "c0148caa83e281ceea5cfb25c87b98c2ebfd89bd74c842573fd257c07f174da2"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
 metafile = true
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
-hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
+hash = "28f8c92f35abde6bff7864a64710b79f0c8ba01b5d377fa2f6cf06d3034ae92c"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "1ecb7e99a65240557294eb0af8657173e5592c6ff0fc6b99fd2f61ca4a7a5518"
+hash = "85db1f57f76865c930aedfd99c869d9a80410991bc4a6e378f148cd44292c999"
 metafile = true
 
 [[files]]
@@ -311,10 +311,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "033249ec4b307d48fa1ce8ae2ea39d13355cd94580a90b9dc422de2890a7b179"
+hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
+hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
 metafile = true
